@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Life image editor",
+  "description": "A powerful image editor that uses Google Gemini AI to perform background removal, image enhancement, object replacement, and image generation from text prompts.",
+  "requestFramePermissions": []
+}
